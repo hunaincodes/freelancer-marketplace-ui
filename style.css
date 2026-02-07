@@ -1,0 +1,53 @@
+body{
+padding-top:55px;
+/* background: rgb(63, 43, 43); */
+}
+
+.custom-navbar{
+background-color:#0040f0;
+}
+
+.hero{
+height:100vh;
+background:url("https://fastly.picsum.photos/id/377/1500/800.jpg?hmac=fnk3cneuaSgqOwwcCysRlv21z7XJOb_BCh7LSKIYLag") center/cover;
+}
+
+.freelancer-card{
+transition:0.3s;
+}
+
+.freelancer-card:hover{
+transform:translateY(-8px);
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+.topimg{
+    /* border-radius: 15px ; */
+    height: 150px;
+}
+
+
+.collapse navbar-collapse{
+    background: rgb(189, 124, 124);
+}
+
+
+
+
+
+/* https://fastly.picsum.photos/id/722/1500/800.jpg?hmac=QjSi-Palbc-5jdyRYEjwfQkqNDU5yoz36uNvbasajrw 
+
+https://fastly.picsum.photos/id/570/1500/800.jpg?hmac=fEC8Lcj5ppBBnArz9EL0hPHYggAYmMYlDNTevDmE5ro
+
+https://fastly.picsum.photos/id/405/1500/800.jpg?hmac=d6sCs-2kgzX3WGB4PhPLdH6U84ZM-3tMQoFSsc_89c0
+
+https://fastly.picsum.photos/id/502/1500/800.jpg?hmac=hfdzNjUfvFBexT4TXijpyoeYSVBPpcJF2XiAPdcIrMg
+
+https://fastly.picsum.photos/id/961/1500/800.jpg?hmac=nJLNmsP9DP26jBT35-eGO3LENtEfB89NCU_vnfG6i9Q
+
+https://fastly.picsum.photos/id/983/1500/800.jpg?hmac=PXqwghcPkt0xo_eD9N-qshepGlB4PIFiJ4uPq3EDdbM
+
+https://fastly.picsum.photos/id/651/1500/800.jpg?hmac=GAnPm1yp_Vj5tPgocJTxMAAK7w0KNYykZ9TKpjM2FcQ
+
+
+*/
